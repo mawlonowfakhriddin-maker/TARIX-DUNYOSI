@@ -1,0 +1,6 @@
+{
+  "name": "Hayvonlar Kitobi — Tabiat Ensiklopediyasi",
+  "description": "Hayvonlarning yashash joyi, ovozi, nima yeyishi va qiziqarli ma'lumotlarini jonli rasmlar va animatsiyalar bilan o'rgatuvchi interaktiv kitob.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
